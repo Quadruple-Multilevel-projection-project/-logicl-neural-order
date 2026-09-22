@@ -1,0 +1,1 @@
+{"name":"tnrl-agent-bank-sandbox","version":"0.1.0","private":true,"scripts":{"compile":"hardhat compile","test":"hardhat test","deploy":"hardhat run scripts/deploy_agent_bank.js --network localhost","simulate":"python3 sim/simulate_100k.py"},"devDependencies":{"@nomicfoundation/hardhat-toolbox":"^5.0.0","hardhat":"^2.22.0"},"dependencies":{"@openzeppelin/contracts":"^5.0.0"}}
